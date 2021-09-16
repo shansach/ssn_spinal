@@ -1,4 +1,4 @@
-# ssn_spinal
+# Sub Spectral Spinal Network
 Application of spinal net on the sub spectral network for acoustic scene classification
 
 The code contains three programs. 
